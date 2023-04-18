@@ -15,7 +15,7 @@ METHODOLOGY:
 
 3.For the Change Detection analysis, a Transition Matrix was created to display the transitions between each class. The changes in the classes were analyzed for two decade-long periods: 2000-2010 and 2010-2020. The resultant images indicate the changed and unchanged pixels.
 
-4.For visualization of the growth in the urban areas, several spectral indices were calculated and visualized. 
+4.For visualization of the growth in the urban areas,several spectral indices were calculated and visualized. 
 
 5.Spectral Indices used are IBI and BUI. This indices are calculated from other indices, NDVI,NDBI,SAVI and MNDWI. Landsat 7 data were used for 2000 and 2010, for 2020, Sentinel 2 MSI data were used.
 
